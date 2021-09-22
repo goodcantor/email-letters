@@ -1,0 +1,124 @@
+<mjml>
+  <mj-body background-color="#f1f1f1" padding-left="5px" padding-right="5px">
+    <mj-section>
+			<mj-column padding-top="8px">
+        <mj-text font-size="40px" font-weight="bold" align="center">Логотип</mj-text>        
+      </mj-column>
+      <mj-column>
+        <mj-button href="#" height="100%" font-size="20px" font-weight="bold" align="center" background-color="transparent" color="#000000" padding-top="17px">
+          Перейти в магазин
+        </mj-button>    
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="5px"></mj-section>
+    
+    <mj-section background-color="#2b2828" padding-top="40px" padding-bottom="40px" padding-left="0px" padding-right="0px" border-radius="10px">
+      <mj-column>
+        <mj-image src="https://huter.su/wa-data/public/shop/products/96/01/196/images/5611/5611.970.png"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text color="#ffffff" font-weight="bold" font-size="25px" line-height="50%" align="center">Большие скидки</mj-text>
+        <mj-text color="#ffffff" font-size="20px" line-height="100%" padding-bottom="35px" align="center">
+          На бензопилы
+        </mj-text>
+        <mj-button background-color="#ffe748" color="#2b2828" font-size="20px" font-weight="bold" border-radius="50px" align="left" href="#" line-height="150%" padding-top="0px" padding-bottom="0px" padding-left="30px" padding-right="30px" width="100%">
+          Купить
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="10px"></mj-section>
+    
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text color="#000000" font-weight="bold" font-size="28px" line-height="100%" align="center" padding-bottom="45px">Недавно просмотренные</mj-text>
+      </mj-column>
+      <mj-column width="47%" background-color="#ffffff" border="2px solid black" padding-top="40px" padding-bottom="40px" padding-left="10px" padding-right="10px"> 
+        <mj-image src="https://el-drel.ru/upload/iblock/713/7137ab9d0fd92d3c6ce5bc09e30c0214.png"></mj-image>
+        <mj-text color="#000000" font-size="25px" font-weight="bold" line-height="80%" padding-bottom="5px" align="center">
+          Дрель
+        </mj-text>
+        <mj-text color="#000000" font-size="16px" line-height="140%" padding-bottom="10px" align="center">
+          Аккумуляторная дрель-шуруповерт Makita DTD153Z 183994 
+        </mj-text>
+        <mj-text color="#000000" font-size="28px" font-weight="bold" line-height="80%" padding-bottom="15px" align="center">
+          4 999 ₽
+        </mj-text>
+        <mj-button background-color="#ffe748" color="#2b2828" font-size="20px" font-weight="bold" border-radius="50px" align="center" href="#" line-height="150%" padding-top="10px" padding-bottom="0px" padding-left="20px" padding-right="20px" width="100%">
+          Купить
+        </mj-button>
+      </mj-column>
+      
+      <mj-column width="6%" padding-top="25px"></mj-column>
+      
+      <mj-column width="47%" background-color="#ffffff" border="2px solid black" padding-top="40px" padding-bottom="40px" padding-left="10px" padding-right="10px"> 
+        <mj-image src="https://static.isolux.ru/media/catalog/product/cache/1/image/602f0fa2c1f0d1ba5e241f914e856ff9/_/-/_-1030.png?kar=1&kf=1&kt=1&co=1&rgb%5B0%5D=255&rgb%5B1%5D=255&rgb%5B2%5D=255&ang=ang&qua=90"></mj-image>
+        <mj-text color="#000000" font-size="25px" font-weight="bold" line-height="80%" padding-bottom="5px" align="center">
+          Наливные полы
+        </mj-text>
+        <mj-text color="#000000" font-size="16px" line-height="140%" padding-bottom="10px" align="center">
+          Наливной пол Ceresit CN 175 20 кг имеет в своем составе...
+        </mj-text>
+        <mj-text color="#000000" font-size="28px" font-weight="bold" line-height="80%" padding-bottom="15px" align="center">
+          1 999 ₽
+        </mj-text>
+        <mj-button background-color="#ffe748" color="#2b2828" font-size="20px" font-weight="bold" border-radius="50px" align="center" href="#" line-height="150%" padding-top="10px" padding-bottom="0px" padding-left="20px" padding-right="20px" width="100%">
+          Купить
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="10px"></mj-section>
+    
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text color="#000000" font-weight="bold" font-size="28px" line-height="100%" align="center" padding-bottom="45px">Рекомендуемые товары</mj-text>
+      </mj-column>
+      <mj-column width="47%" background-color="#ffffff" border="2px solid black" padding-top="40px" padding-bottom="40px" padding-left="10px" padding-right="10px"> 
+        <mj-image src="https://cs.petrovich.ru/images/2773030/original-160x182-fit.jpg"></mj-image>
+        <mj-text color="#000000" font-size="25px" font-weight="bold" line-height="80%" padding-bottom="5px" align="center">
+          Линолеум
+        </mj-text>
+        <mj-text color="#000000" font-size="16px" line-height="140%" padding-bottom="10px" align="center">
+          Предназначен для использования в жилых помещениях со...
+        </mj-text>
+        <mj-text color="#000000" font-size="28px" font-weight="bold" line-height="80%" padding-bottom="15px" align="center">
+          4 999 ₽
+        </mj-text>
+        <mj-button background-color="#ffe748" color="#2b2828" font-size="20px" font-weight="bold" border-radius="50px" align="center" href="#" line-height="150%" padding-top="10px" padding-bottom="0px" padding-left="20px" padding-right="20px" width="100%">
+          Купить
+        </mj-button>
+      </mj-column>
+      
+      <mj-column width="6%" padding-top="25px"></mj-column>
+      
+      <mj-column width="47%" background-color="#ffffff" border="2px solid black" padding-top="40px" padding-bottom="40px" padding-left="10px" padding-right="10px"> 
+        <mj-image src="https://cs.petrovich.ru/images/44303/original-160x182-fit.jpg" height="209px"></mj-image>
+        <mj-text color="#000000" font-size="25px" font-weight="bold" line-height="80%" padding-bottom="5px" align="center">
+          Грунт
+        </mj-text>
+        <mj-text color="#000000" font-size="16px" line-height="140%" padding-bottom="10px" align="center">
+          Праймер-концентрат глубокого проникновения на акрилатной...
+        </mj-text>
+        <mj-text color="#000000" font-size="28px" font-weight="bold" line-height="80%" padding-bottom="15px" align="center">
+          1 199 ₽
+        </mj-text>
+        <mj-button background-color="#ffe748" color="#2b2828" font-size="20px" font-weight="bold" border-radius="50px" align="center" href="#" line-height="150%" padding-top="10px" padding-bottom="0px" padding-left="20px" padding-right="20px" width="100%">
+          Купить
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="10px"></mj-section>
+    
+    <mj-section>
+      <mj-column width="100%">
+        <mj-button background-color="#ffe748" color="#2b2828" font-size="20px" font-weight="bold" border-radius="50px" align="center" href="#" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" width="100%" inner-padding="25px 200px">
+          Перейти в магазин
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>
